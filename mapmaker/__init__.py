@@ -5,6 +5,6 @@ __all__ = [
     # g3mapmaker
     'QuickMapMaker',
 
-    # tools
+    # framecounter
     'FrameCounter'
 ]
