@@ -1,7 +1,7 @@
 # ============================================================================ #
-# Jonah Lee
+# Adapted from Jonah Lee
 # https://github.com/jonahjlee/blasttng-to-g3.git
-# tools.py
+# g3_utils/tools.py
 # ============================================================================ #
 
 from spt3g import core
