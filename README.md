@@ -10,3 +10,5 @@ HDF5 files from a TOAST simulation of Jupiter were converted to .g3 files and us
 The `mapmaker` module contains the main script `g3mapmaker.py` used in the pipeline `full_g3pipeline.ipynb` to create a combined map of Jupiter from the simulated data files.
 
 The notebook `Jupiter_sim.ipynb` explores the format of these .g3 files and explains how to apply detector offsets using quaternions.
+
+The goal is that this initial pipeline structure can be used to develop the final Quick-Look Mapmaker for CCAT.
